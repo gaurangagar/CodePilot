@@ -1,0 +1,2 @@
+CodeAtlas — AI-Powered Repository Understanding Agent
+An intelligent agent that analyzes software repositories, maps architecture, traces execution flows, and answers codebase questions through natural language.
